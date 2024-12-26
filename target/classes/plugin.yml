@@ -1,0 +1,4 @@
+name: EventReffer
+version: '1.0'
+main: org.lepigslayer.eventReffer.EventReffer
+api-version: '1.21'

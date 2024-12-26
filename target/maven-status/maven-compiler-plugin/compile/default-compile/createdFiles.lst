@@ -1,0 +1,15 @@
+org\lepigslayer\eventReffer\InventorySystem\InventoryBuilder.class
+org\lepigslayer\eventReffer\InventorySystem\InventoryEvents.class
+org\lepigslayer\eventReffer\InventorySystem\SimpleItem.class
+org\lepigslayer\eventReffer\Inventories\NBTItemFactory.class
+org\lepigslayer\eventReffer\InventorySystem\InventoryTemplate.class
+org\lepigslayer\eventReffer\InventorySystem\CustomInventory.class
+org\lepigslayer\eventReffer\Inventories\NBTManager.class
+org\lepigslayer\eventReffer\InventorySystem\InventoryBuilder$InventorySlots.class
+org\lepigslayer\eventReffer\TestEvents.class
+org\lepigslayer\eventReffer\InventorySystem\Slots\DynamicSlot.class
+org\lepigslayer\eventReffer\Inventories\MainInventory.class
+org\lepigslayer\eventReffer\InventorySystem\BackgroundMode.class
+org\lepigslayer\eventReffer\EventReffer.class
+org\lepigslayer\eventReffer\InventorySystem\Slot.class
+org\lepigslayer\eventReffer\InventorySystem\Slots\ItemSlot.class
